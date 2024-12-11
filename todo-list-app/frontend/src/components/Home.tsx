@@ -5,6 +5,7 @@ import { TodoBoard } from "./todo/TodoBoard"
 export const Home = () => {
   return (
     <div>
+      <h2>Home Page</h2>
         <Navbar />
         <TodoBoard />
     </div>
